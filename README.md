@@ -1,10 +1,15 @@
 # cruzz
+---
+
 Welcome aboard!
 
 [![Build Status](https://travis-ci.com/Monal5031/cruzz.svg?token=oFMLpVwvpvqpesnnf2eF&branch=master)](https://travis-ci.com/Monal5031/cruzz)
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-Steps to setup:
+
+Steps to setup👨‍🔧:
 
 ```bash
     virtualenv -p python3 venv
@@ -21,3 +26,12 @@ Credentials:
 ```
 
 Refer [docs](https://github.com/NJACKWinterOfCode/cruzz/tree/master/docs) to know more about how to use or setup the project.
+
+### Author
+---
+[Monal Shadi](https://github.com/Monal5031)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="37" padding="11">](https://github.com/Monal5031)
+[<img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="37" padding="11">](monalshadi16@gmail.com)
+
+<p align="center"> Made with ❤ by <a href="https://github.com/Monal5031">Monal Shadi</a></p>
