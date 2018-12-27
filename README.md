@@ -1,6 +1,5 @@
-# cruzz
+﻿# cruzz
 ---
-
 **Welcome aboard!**
 
 [![Build Status](https://travis-ci.com/Monal5031/cruzz.svg?token=oFMLpVwvpvqpesnnf2eF&branch=master)](https://travis-ci.com/Monal5031/cruzz)
